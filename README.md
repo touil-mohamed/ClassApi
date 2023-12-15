@@ -12,14 +12,11 @@ Ce projet est un système de gestion d'étudiants qui utilise une interface web 
 
 ## Installation
 # Assurez-vous d'avoir Node.js installé
-npm install
-
-npm start
-
-or 
-
-nodemon run dev
-
+```bash
+    npm install
+    npm start
+    nodemon run dev
+```
 L'application devrait maintenant être accessible à l'adresse http://localhost:3000 depuis votre navigateur.
 
 ## Utilisation
