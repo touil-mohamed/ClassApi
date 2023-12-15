@@ -17,21 +17,27 @@ npm install
 
 npm start
 
+or 
+
+nodemon run dev
+
 L'application devrait maintenant être accessible à l'adresse http://localhost:3000 depuis votre navigateur.
 
-Utilisation
+## Utilisation
 
 Accédez à l'interface web à l'adresse http://localhost:3000.
 Vous verrez une liste d'étudiants et de classes.
 Vous pouvez ajouter de nouveaux étudiants et classes en cliquant sur les boutons "Add Student" et "Add Class".
 Vous pouvez également modifier et supprimer des étudiants et des classes en cliquant sur les boutons correspondants dans la table.
-Fonctionnalités
+
+## Fonctionnalités
 
 Affichage de la liste des étudiants et des classes.
 Ajout d'un nouvel étudiant ou d'une nouvelle classe.
 Modification des informations d'un étudiant ou d'une classe.
 Suppression d'un étudiant ou d'une classe.
-Technologies utilisées
+
+## Technologies utilisées
 
 HTML, CSS, JavaScript
 Node.js pour le côté serveur
@@ -41,7 +47,7 @@ Contribuer
 
 Si vous souhaitez contribuer à ce projet, veuillez ouvrir une nouvelle demande d'extraction.
 
-Licence
+## Licence
 
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
