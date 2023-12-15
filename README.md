@@ -8,7 +8,6 @@ Ce projet est un système de gestion d'étudiants qui utilise une interface web 
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies utilisées](#technologies-utilisées)
-- [Contribuer](#contribuer)
 - [Licence](#licence)
 
 ## Installation
@@ -39,13 +38,12 @@ Suppression d'un étudiant ou d'une classe.
 
 ## Technologies utilisées
 
-HTML, CSS, JavaScript
-Node.js pour le côté serveur
-Fetch API pour les requêtes HTTP
-CSV pour le stockage des données (modifiable)
-Contribuer
-
-Si vous souhaitez contribuer à ce projet, veuillez ouvrir une nouvelle demande d'extraction.
+- HTML
+- CSS
+- JavaScript
+- Node.js pour le côté serveur
+- Fetch API pour les requêtes HTTP
+- CSV pour le stockage des données (modifiable)
 
 ## Licence
 
