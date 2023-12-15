@@ -1,0 +1,18 @@
+{
+  "name": "touil_mohamed_tpapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
